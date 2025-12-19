@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36804.6 d17.14
+VisualStudioVersion = 17.14.36804.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientAppointmentSystem", "PatientAppointmentBooking\PatientAppointmentSystem.csproj", "{ABD9A769-B8F8-4DC4-8605-8F48AD25E860}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientAppointmentBooking", "PatientAppointmentBooking\PatientAppointmentBooking.csproj", "{ABD9A769-B8F8-4DC4-8605-8F48AD25E860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
